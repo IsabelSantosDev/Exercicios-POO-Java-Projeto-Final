@@ -50,11 +50,11 @@ src/
  
  │   └── exceptions/             # Exceções personalizadas
  
- │       ├── ClienteNaoEncontradoException.java
+      ├── ClienteNaoEncontradoException.java
  
- │       ├── VeiculoNaoEncontradoException.java
+      ├── VeiculoNaoEncontradoException.java
  
- │       └── PrecoInvalidoException.java
+      └── PrecoInvalidoException.java
 
 
 # ▶️ Como Executar
@@ -63,17 +63,15 @@ src/
 
 git clone https://github.com/IsabelSantosDev/Exercicios-POO-Java-Projeto-Final.git
 
-# Acesse a pasta do projeto
-
-cd Uni 4 - Projeto Final
+Acesse a pasta do projeto
 
 cd src
 
-# Compile os arquivos
+Compile os arquivos
 
 javac src/*.java
 
-# Execute o programa
+Execute o programa
 
 java -cp src Main
 
@@ -92,8 +90,11 @@ Listas Dinâmicas → uso de ArrayList para armazenar clientes, veículos e vend
 ## 📌 Possíveis Melhorias Futuras
 
 🔹 Persistência dos dados em arquivos ou banco de dados
+
 🔹 Interface gráfica (JavaFX ou Swing)
+
 🔹 API REST em Java Spring Boot
+
 🔹 Testes unitários com JUnit
 
 
