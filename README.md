@@ -50,11 +50,11 @@ src/
  
  │   └── exceptions/             # Exceções personalizadas
  
-      ├── ClienteNaoEncontradoException.java
+   │ ├── ClienteNaoEncontradoException.java
  
-      ├── VeiculoNaoEncontradoException.java
+   │ ├── VeiculoNaoEncontradoException.java
  
-      └── PrecoInvalidoException.java
+   │ └── PrecoInvalidoException.java
 
 
 # ▶️ Como Executar
